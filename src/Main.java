@@ -2,12 +2,19 @@
 public class Main {
     public static void main(String[] args) {
 
-        Circle circle = new Circle();
-        circle.setPI(3);
-        circle.setRadius(7);
-        System.out.println(circle.toString());
-        Circle.circumference(circle, circle.getPI(), circle.getRadius());
-        Circle.area(circle, circle.getPI(), circle.getRadius());
+
+
+
+
+
+
+//
+//        Circle circle = new Circle();
+//        circle.setPI(3);
+//        circle.setRadius(7);
+//        System.out.println(circle.toString());
+//        Circle.circumference(circle, circle.getPI(), circle.getRadius());
+//        Circle.area(circle, circle.getPI(), circle.getRadius());
 
 
     }
